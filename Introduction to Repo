@@ -1,0 +1,61 @@
+# 📊 Netflix EDA Project
+
+This repository presents an Exploratory Data Analysis(EDA) of Netflix content, focusing on trends, patterns, and insights from the platform's catalog. The analysis was performed using Python, and the dataset was cleaned and visualized to prepare it for analytical storytelling.
+
+
+## 📁 Dataset
+
+- Cleaned_Data_Excel.xlsx: Contains the cleaned Netflix dataset used for analysis.
+- Originally sourced from [Netflix dataset](https://www.kaggle.com/shivamb/netflix-shows) and cleaned using Microsoft Excel 2019.
+
+
+## 🔍 Key Analyses
+
+✔️ Year-wise trend of content added  
+✔️ Top 10 content-producing countries  
+✔️ Movie durations distribution  
+✔️ TV Show season-wise analysis  
+✔️ Most common genres (`listed_in`)  
+✔️ Top 5 directors with the most content  
+
+
+## 📸 Visualizations
+
+All visualizations were created using:
+- `matplotlib`
+- `seaborn`
+
+PNG files of the visualizations are included in the repo. Some visual highlights:
+- Bar plots of content per year
+- Genre frequency charts
+- Country-wise content maps
+- Duration distributions.
+
+## 💡 Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook in VS Code
+- Excel 2019 for initial cleaning
+- GitHub for version control and showcasing
+
+
+## 🚀 How to Run
+
+1. Clone the repository : 
+   https://github.com/Aditi-Cs-devlop/Netflix-EDA-Project
+2. Open `Netflix_EDA.ipynb` in Jupyter Notebook or VS Code
+3. Run all cells to regenerate visualizations
+
+
+
+## Author
+Aditi Sawale
+🎓 Engineering Student | 📊 Aspiring Data Analyst  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aditi-sawale-b590762b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+💻 [GitHub](https://github.com/Aditi-Cs-devlop/Aditi-Sawale) 
+
+
+## 📌 Acknowledgements
+Thanks to Kaggle for providing the raw dataset.  
+Special shoutout to community resources that helped in shaping this project.
+
